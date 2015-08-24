@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TXWTableViewController.h
 //  正能量壁纸app
 //
 //  Created by Mac on 14/11/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TXWTableViewController : UITableViewController
 
 @end
-
